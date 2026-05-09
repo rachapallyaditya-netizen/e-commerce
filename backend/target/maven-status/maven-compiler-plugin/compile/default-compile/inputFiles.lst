@@ -1,0 +1,12 @@
+C:\Users\R Aditya\OneDrive\Desktop\e-commerce\backend\src\main\java\com\cozy\ecommerce\config\CorsConfig.java
+C:\Users\R Aditya\OneDrive\Desktop\e-commerce\backend\src\main\java\com\cozy\ecommerce\config\DataInitializer.java
+C:\Users\R Aditya\OneDrive\Desktop\e-commerce\backend\src\main\java\com\cozy\ecommerce\controller\CartController.java
+C:\Users\R Aditya\OneDrive\Desktop\e-commerce\backend\src\main\java\com\cozy\ecommerce\controller\ProductController.java
+C:\Users\R Aditya\OneDrive\Desktop\e-commerce\backend\src\main\java\com\cozy\ecommerce\dto\CartItemRequest.java
+C:\Users\R Aditya\OneDrive\Desktop\e-commerce\backend\src\main\java\com\cozy\ecommerce\EcommerceApplication.java
+C:\Users\R Aditya\OneDrive\Desktop\e-commerce\backend\src\main\java\com\cozy\ecommerce\model\CartItem.java
+C:\Users\R Aditya\OneDrive\Desktop\e-commerce\backend\src\main\java\com\cozy\ecommerce\model\Product.java
+C:\Users\R Aditya\OneDrive\Desktop\e-commerce\backend\src\main\java\com\cozy\ecommerce\repository\CartItemRepository.java
+C:\Users\R Aditya\OneDrive\Desktop\e-commerce\backend\src\main\java\com\cozy\ecommerce\repository\ProductRepository.java
+C:\Users\R Aditya\OneDrive\Desktop\e-commerce\backend\src\main\java\com\cozy\ecommerce\service\CartService.java
+C:\Users\R Aditya\OneDrive\Desktop\e-commerce\backend\src\main\java\com\cozy\ecommerce\service\ProductService.java
